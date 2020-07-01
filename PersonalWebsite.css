@@ -1,0 +1,116 @@
+body{
+    margin:0;
+    font-family:'Merriweather', serif;
+}
+h1{
+    font-size: 30px;
+}
+p{
+    color: dimgray;
+}
+.name-highlight{
+    font-size: 25px;
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float:left;
+    margin-left: 5%;
+    padding-left:2%;
+}
+.image-class{
+    height: 400px;
+    width:500px;
+}
+
+.top-banner{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,purple,red);
+    padding:10px 25px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.biography{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.biography-padding{
+    padding:20px;
+    margin-top: 7%;
+}
+.enthusiasts{
+    background-image: url("images/databackground.jpeg");
+    background-repeat: no-repeat;
+   margin-top: 100px;
+   
+}
+#datascience-img{
+ height: 300px;
+ width: 600px;
+ border-radius: 5px;
+}
+.latest-work{
+    width: auto;
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+}
+.work{
+    text-align: center;
+}
+ .latest-image{
+    width:100%;
+}
+.latest-image img{
+    width: 25%;
+    float: left;
+    margin:2%;
+    padding:2%;
+}
+.box {
+
+    height: 30%;
+    width:60%;
+    text-align: center;
+    background-image: linear-gradient(180deg,salmon,orange);
+    padding-top: 30px;
+    padding:80px,90px;
+    border-radius: 10px;
+    font-weight: 1100;
+    margin-left: 20%;
+    margin-right: 20%;
+    color: white;
+}
+.box p{
+    color: white;
+}
+.footer-work{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+}
+.footer-work h1{
+    text-align: center;
+}
+.prover{
+    text-align: center;
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+}
+.bruce{
+    text-align: center;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+footer{
+    text-align: center;
+    color:dimgray;
+}
